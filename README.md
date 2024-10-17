@@ -31,7 +31,7 @@
 6.	Compile the lex program with lex compiler to produce output file as lex.yy.c. eg $ lex filename.l $ cc lex.yy.c
 7.	Compile that file with C compiler and verify the output.
 # PROGRAM
-
+```
 Developed by: MANI SRI LATHA.M
 Register no: 212223110025
 
@@ -78,7 +78,7 @@ int main() {
 
     return 0;
 }
-
+```
 
 # OUTPUT
 
